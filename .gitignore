@@ -1,0 +1,12 @@
+# Generated output files (run python readmission_prediction.py to regenerate)
+*.png
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
